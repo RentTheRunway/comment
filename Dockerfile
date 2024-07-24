@@ -1,4 +1,4 @@
-FROM python:3.8.2-slim-buster
+FROM artifactory.rtr.cloud/docker/python:3.8.2-slim-buster
 
 ENV PYTHONUNBUFFERED=1
 
